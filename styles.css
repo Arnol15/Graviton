@@ -1,15 +1,16 @@
 ﻿* {
-    margin: 0;
+    margin: 1;
     padding: 0;
 }
 
 body {
-    font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Lato Extended", "Lato", "Lora", "Helvetica Neue", Helvetica, Arial;
 }
 
 #nav-bar {
     position: sticky;
     top: 0;
+    height: 3rem;
     z-index: 10;
 }
 
@@ -33,6 +34,9 @@ body {
     font-family: Helvetica;
 }
 
+.page-title {
+    font-family: lora;
+}
 
 /*-----------------------Banner Section-------------------------*/
 
