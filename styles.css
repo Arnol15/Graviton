@@ -4,23 +4,23 @@
 }
 
 body {
-    font-family: "Lato Extended", "Lato", "Lora", "Helvetica Neue", Helvetica, Arial;
+    font-family: "Lato Extended", "Lato", "Lora", "Helvetica Neue", "Helvetica", "Arial";
 }
 
 #nav-bar {
     position: sticky;
     top: 0;
-    height: 5rem;
     z-index: 10;
 }
 
 .navbar {
     background-image: linear-gradient(to right, #233d53, #064b73);
     padding: 0 !important;
+    height: 5rem;
 }
 
 .navbar-brand img {
-    Height: 40px;
+    Height: 50px;
     padding-left: 20px;
 }
 
