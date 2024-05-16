@@ -30,6 +30,7 @@ body {
 .navbar-nav li a {
     color: #fff !important;
     font-weight: 600;
+    font-family: Helvetica;
 }
 
 
